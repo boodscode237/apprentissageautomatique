@@ -1,0 +1,26 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 8b3f2e9a-c4d1-4e7b-a5f8-2c9d6e1b4a73
+  title: Apprentissage Automatique
+  description: Un blog de tutoriels sur le Machine Learning et la Data Science pour débutants
+  keywords: [python, machine learning, numpy, matplotlib, pandas, eda, data science, tutorial]
+  github: https://github.com/boodscode237/apprentissageautomatique
+  exclude:
+    - correction_*.ipynb
+  jupyter:
+    lite: true
+  toc:
+    - file: 00 Les bases du langage Python, les notebooks Jupyter/Les bases du langage Python et les notebooks Jupyter.ipynb
+      title: Les bases du langage Python et les notebooks Jupyter
+    - file: 01 NUMPY/NUMPY.ipynb
+      title: NumPy
+    - file: 02 MATPLOTLIB/Matplotlib.ipynb
+      title: Matplotlib
+    - file: 03 PANDAS/pandas.ipynb
+      title: Pandas
+site:
+  template: book-theme
+  options:
+    logo: logo.svg
+    favicon: favicon.svg

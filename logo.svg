@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 60" width="280" height="60">
+  <!-- Python snake icon -->
+  <g transform="translate(4, 6)">
+    <!-- Blue snake body (top) -->
+    <path d="M24 4 C14 4 8 9 8 17 L8 22 L20 22 L20 19 C20 16 22 14 24 14 L32 14 C38 14 44 8 44 2 L30 2 C27 2 24 3 24 4Z" fill="#3776AB"/>
+    <!-- Blue snake head dot -->
+    <circle cx="38" cy="7" r="2.5" fill="#FFD43B"/>
+    <!-- Yellow snake body (bottom) -->
+    <path d="M20 44 C30 44 36 39 36 31 L36 26 L24 26 L24 29 C24 32 22 34 20 34 L12 34 C6 34 0 40 0 46 L14 46 C17 46 20 45 20 44Z" fill="#FFD43B"/>
+    <!-- Yellow snake head dot -->
+    <circle cx="6" cy="41" r="2.5" fill="#3776AB"/>
+  </g>
+  <!-- Channel name -->
+  <text x="56" y="28" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="700" fill="#3776AB">Monty Python</text>
+  <text x="56" y="48" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="400" fill="#555">with Brice</text>
+</svg>
