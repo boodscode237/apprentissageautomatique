@@ -21,6 +21,7 @@ project:
       title: Pandas
 site:
   template: book-theme
+  url: https://boodscode237.github.io/apprentissageautomatique
   options:
     logo: logo.svg
     favicon: favicon.svg
